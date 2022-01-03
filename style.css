@@ -13,6 +13,7 @@ h3{
 }
 section{
     display: flex;
+    margin-bottom: 120px;
 }
 .half-width{
     width: 50%;
@@ -31,4 +32,9 @@ section{
 .top-banner{
     background-image: url(pics/images/top-banner.png);
     background-repeat: no-repeat;
+}
+.dream{
+    background-image: url(pics/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
